@@ -6,6 +6,11 @@
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/financassenior" />
         <option name="gradleJvm" value="openjdk-24" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/financassenior" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
